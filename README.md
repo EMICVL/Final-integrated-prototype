@@ -5,7 +5,6 @@ The final prototype which integrates all submissions from Caucasian partners tha
 As of November 13 2017, integration requirements are met for the following teams:
 
 * ONU
-* TSU
 * LNU
 * AMU
 * BSU
