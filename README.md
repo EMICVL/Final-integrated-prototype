@@ -6,6 +6,6 @@ As of November 13 2017, integration requirements are met for the following teams
 
 * ONU
 * LNU
-* AMU
-* BSU
+* TSU
+
 
