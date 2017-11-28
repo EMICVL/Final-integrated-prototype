@@ -8,5 +8,5 @@ As of November 15 2017, integration requirements are met for the following teams
 * LNU
 * TSU
 * AMU
-
+* SDASU
 
