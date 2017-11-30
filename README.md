@@ -9,4 +9,6 @@ As of November 15 2017, integration requirements are met for the following teams
 * TSU
 * AMU
 * SDASU
+* _BSU_
+
 
